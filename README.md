@@ -37,5 +37,7 @@ Open the project in Android Studio and run it on an emulator or phone.
 - WebView
 
 ## How does it work?
-The app let the user search sports news by category and add bookmarks
+The app let the user search sign up or log in, add URL videos from YouTube, play them and save them in a playlist
+## How to run the app
+Open the project in Android Studio and run it on an emulator or phone.
 
